@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!! My First Program(But I didn't write this..My Brother Done this..I'm watching and learning");
+            Console.WriteLine("Hello World!! My First Program");
 
             Console.Read();
         }
